@@ -1,0 +1,198 @@
+[
+  {
+    "id_persona": "P001",
+    "interestedareaofwork": "",
+    "interestedareaofstudy": "",
+    "areaofworkexperience": "LABORATORY ANALYST",
+    "areaofstudy": "BACHILLERATO"
+  },
+  {
+    "id_persona": "P002",
+    "interestedareaofwork": "AYUDANTE DE CARPINTERO",
+    "interestedareaofstudy": "CUARTO AÃfÂ'O ESC. SUPERIOR",
+    "areaofworkexperience": "",
+    "areaofstudy": ""
+  },
+  {
+    "id_persona": "P003",
+    "interestedareaofwork": "AYUDANTE DE COCINA",
+    "interestedareaofstudy": "TECNICO REPOSTERIA",
+    "areaofworkexperience": "",
+    "areaofstudy": "CUARTO AÃfÂ'O APROBADO"
+  },
+  {
+    "id_persona": "P004",
+    "interestedareaofwork": "QUIMICA",
+    "interestedareaofstudy": "NO",
+    "areaofworkexperience": "QUIMICA",
+    "areaofstudy": "BACHILLERATO"
+  },
+  {
+    "id_persona": "P005",
+    "interestedareaofwork": "EMFERMERIA",
+    "interestedareaofstudy": "",
+    "areaofworkexperience": "AMA DE LLAVES",
+    "areaofstudy": "ASOCIADO"
+  },
+  {
+    "id_persona": "P006",
+    "interestedareaofwork": "SECRETARIAL MÃfÂ, NO\"",
+    "interestedareaofstudy": "SECRETARIAL MÃfÂ, CURSO TÃfÂ",
+    "areaofworkexperience": "",
+    "areaofstudy": ""
+  },
+  {
+    "id_persona": "P007",
+    "interestedareaofwork": "AREA DE PRODUCCION Y LABORATORIO",
+    "interestedareaofstudy": "NO",
+    "areaofworkexperience": "CHEMIST",
+    "areaofstudy": "BACHILLERATO EN QUIMICA UPR -ARECIBO 1994"
+  },
+  {
+    "id_persona": "P008",
+    "interestedareaofwork": "COOK INSTITUTION",
+    "interestedareaofstudy": "",
+    "areaofworkexperience": "",
+    "areaofstudy": "GRADO ASOCIADO - FARMACIA"
+  },
+  {
+    "id_persona": "P009",
+    "interestedareaofwork": "Fabricas",
+    "interestedareaofstudy": "",
+    "areaofworkexperience": "Machine Operator",
+    "areaofstudy": "Bachillerato"
+  },
+  {
+    "id_persona": "P010",
+    "interestedareaofwork": "CUIDADORA",
+    "interestedareaofstudy": "",
+    "areaofworkexperience": "",
+    "areaofstudy": "BACHILLERATO EN ENFERMERIA"
+  },
+  {
+    "id_persona": "P011",
+    "interestedareaofwork": "DELIBERY",
+    "interestedareaofstudy": "CUARTO AÃfÂ'O ESC. SUPERIOR",
+    "areaofworkexperience": "",
+    "areaofstudy": ""
+  },
+  {
+    "id_persona": "P012",
+    "interestedareaofwork": "Cocina Servicio al cliente Plomeria Carpinteria",
+    "interestedareaofstudy": "No",
+    "areaofworkexperience": "Cocina Electricidad Carpinteria",
+    "areaofstudy": "Grado TÃfÂ©cnico - Electricidad"
+  },
+  {
+    "id_persona": "P013",
+    "interestedareaofwork": "CUSTOMER SERVICE HOSTESS CASHIER WAITRESS",
+    "interestedareaofstudy": "",
+    "areaofworkexperience": "CUSTOMER SERVICE HOSTESS CASHIER WAITRESS",
+    "areaofstudy": "12-EQUIVALENTE"
+  },
+  {
+    "id_persona": "P014",
+    "interestedareaofwork": "RECEPCIONISTA",
+    "interestedareaofstudy": "",
+    "areaofworkexperience": "",
+    "areaofstudy": ""
+  },
+  {
+    "id_persona": "P015",
+    "interestedareaofwork": "MANTENIMIENTO",
+    "interestedareaofstudy": "",
+    "areaofworkexperience": "AMA DE LLAVES",
+    "areaofstudy": "CUARTO AÃfÂ'O ESCUELA SUP. NO ESTUDIANTE"
+  },
+  {
+    "id_persona": "P016",
+    "interestedareaofwork": "ENSAMBLADOR",
+    "interestedareaofstudy": "CUARTO AÃfÂ'O ESC. SUPERIOR",
+    "areaofworkexperience": "",
+    "areaofstudy": ""
+  },
+  {
+    "id_persona": "P017",
+    "interestedareaofwork": "WAREHOUSE MONTACARGA",
+    "interestedareaofstudy": "",
+    "areaofworkexperience": "RECEIVING MONTACARGAS INVENTARIO",
+    "areaofstudy": "GRDO ASOCIADO"
+  },
+  {
+    "id_persona": "P018",
+    "interestedareaofwork": "CUIDO DE ENVEJECIENTE",
+    "interestedareaofstudy": "",
+    "areaofworkexperience": "CUIDO DE ENVEJECIENTE",
+    "areaofstudy": "GRADO ASOCIADO"
+  },
+  {
+    "id_persona": "P019",
+    "interestedareaofwork": "VENTAS",
+    "interestedareaofstudy": "NO",
+    "areaofworkexperience": "VENTAS",
+    "areaofstudy": "12"
+  },
+  {
+    "id_persona": "P020",
+    "interestedareaofwork": "Guardia de Seguridad ensamblaje",
+    "interestedareaofstudy": "No",
+    "areaofworkexperience": "Guardia de Seguridad y Ensamblaje",
+    "areaofstudy": "HIGH SCHOOL"
+  },
+  {
+    "id_persona": "P021",
+    "interestedareaofwork": "MICROBIOLOGA",
+    "interestedareaofstudy": "",
+    "areaofworkexperience": "MICROBIOLOGA",
+    "areaofstudy": "MAESTRIA"
+  },
+  {
+    "id_persona": "P022",
+    "interestedareaofwork": "",
+    "interestedareaofstudy": "",
+    "areaofworkexperience": "INGENIERO MANUFCTURA",
+    "areaofstudy": "BACHILLERATO"
+  },
+  {
+    "id_persona": "P023",
+    "interestedareaofwork": "SERVICIOS AL CLIENTE",
+    "interestedareaofstudy": "",
+    "areaofworkexperience": "SERVICIOS AL CLIENTE",
+    "areaofstudy": "GRADO TECNICO"
+  },
+  {
+    "id_persona": "P024",
+    "interestedareaofwork": "ConstrucciÃfÂ³n o restaurantes",
+    "interestedareaofstudy": "No",
+    "areaofworkexperience": "ConstrucciÃfÂ³n o restaurantes",
+    "areaofstudy": "Cuarto AÃfÂ±o"
+  },
+  {
+    "id_persona": "P025",
+    "interestedareaofwork": "MANTENIMIENTO DE ÃfÂ",
+    "interestedareaofstudy": "NO",
+    "areaofworkexperience": "MANTENIMIENTO DE ÃfÂ",
+    "areaofstudy": "EQUIVALENCIA"
+  },
+  {
+    "id_persona": "P026",
+    "interestedareaofwork": "Servicio al cliente Cajera",
+    "interestedareaofstudy": "No",
+    "areaofworkexperience": "Servicio al cliente Cajera",
+    "areaofstudy": "Grado Asociado"
+  },
+  {
+    "id_persona": "P027",
+    "interestedareaofwork": "TÃfÂ©cnico de RefrigeraciÃfÂ³n o restaurantes",
+    "interestedareaofstudy": "No",
+    "areaofworkexperience": "TÃfÂ©cnico de RefrigeraciÃfÂ³n",
+    "areaofstudy": "Grado Tecnico"
+  },
+  {
+    "id_persona": "P028",
+    "interestedareaofwork": "ORDEÃfÂ'ÃfÂ",
+    "interestedareaofstudy": "NO",
+    "areaofworkexperience": "ORDEÃfÂ'ADOR",
+    "areaofstudy": "10"
+  }
+]
